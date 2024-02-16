@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-us-image{
+    margin-top:10px;
+    width:90%;
+    height: 500px;
+    align-self: center;
+    object-fit: cover;
+    z-index:1;
+    position: relative;
+}
+
+.about-heading{
+    background-color: black;
+    color: azure;
+    font-size: 24px;
+    font-weight: bold;
+    width:60%;
+    padding-left:20px;
+    height:45px;
+    position: relative;
+    z-index:3;
+    margin-top:-25px ;
+}
+
+.below-container{
+    display:flex;
+    padding:30px;
+    margin:auto;
+}
+
+.quality-news{
+    width:30%;
+    margin-left:10%;
+    margin-right:20px;
+    color:black;
+}
+
+.description{
+    width:60%;
+    margin-right: 10%;
+}
+
+.staff-section{
+    height:auto;
+    width:330px;
+}
+.staff-pic{
+    height:200px;
+    width:250px;
+}
+.staff{
+    display: flex;
+    flex-wrap: wrap;
+}
+.profession{
+    font-size:19px;
+}
+.staff-heading{
+    align-self: start;
+    margin-left:11%;
+}
+
+.bottom-part{
+    align-self: flex-start;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: aliceblue;
+    width: 100%;
+    padding:100px;
+    
+}
+.elements{
+    font-size:23px;
+    font-weight: bold;
+    list-style-type: none;
+    margin-bottom:10px;
+
+}
+.subscribe-heading{
+    margin-bottom: 40px;
+}
+.eamil{
+    width:300px;
+    height:40px;
+    border:black;
+    border-style: none;
+    background-color:black;
+    border-bottom:white 2px solid;
+}
+.subscribe-button{
+    height:40px;
+    width:90px;
+    background-color:white;
+    font-size:14px;
+    border:none;
+    margin-left:10px;
+}

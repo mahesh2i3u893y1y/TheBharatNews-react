@@ -1,0 +1,27 @@
+.sorry-image{
+    height:300px;
+    width:450px;
+}
+
+.popup-container{
+    display:flex;
+    justify-content: center;
+    flex-direction:column;
+    align-items: center;
+    height:100vh;
+    background-color: rgb(191, 155, 155);
+    padding:30px;
+}
+h1{
+    color: white;
+}
+
+.back-button{
+    color:white;
+    background-color:black;
+    height:34px;
+    width:100px;
+    border:none;
+    font-size:15px;
+    font-weight:bold;
+}

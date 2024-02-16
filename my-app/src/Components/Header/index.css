@@ -1,0 +1,50 @@
+body{
+    margin:0%;
+    padding: 0%;
+}
+
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    background-color: black;
+    margin-bottom: 0%;
+
+}
+
+.title{
+    font-size:32px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: azure;
+    margin-left:4%;
+}
+
+.bharat{
+    color:#ef0b1e;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.links{
+    display:flex;
+    margin-right:12%;
+    color: aliceblue;
+    margin-top:3%;
+}
+
+.link{
+    list-style-type: none;
+    margin-left:20px;
+    font-size:15px;
+    font-weight:500;
+    cursor: pointer;
+    text-decoration: none;
+    color:aliceblue;
+    
+}
+
+.link:hover{
+    color: #d20c1d;
+
+}

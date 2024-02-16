@@ -1,0 +1,122 @@
+[
+    {
+        "title":"Demonstrations across INDIA break out",
+        "image":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1708008309/pexels-habib-904735_yttqrr.jpg",
+        "category":"news",
+        "id":1
+    },
+    {
+        "title":"Air raids across Syria",
+        "image":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1708008719/pexels-dylan-733254_j35bi7.jpg",
+        "category":"news",
+        "id":2
+    },
+    {
+        "title":"Middle East peace talks scheduled to take place",
+        "image":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1708008332/pexels-life-matters-4613880_vyvwg4.jpg",
+        "category":"news",
+        "id":3
+    },
+    {
+        "title":"Demonstrations across INDIA break out",
+        "image":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1708013518/pexels-rosemary-ketchum-1464223_ocgdpn.jpg",
+        "category":"news",
+        "id":4
+    },
+    {
+        "title":"United Nations facing political attack",
+        "image":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1708008156/pexels-antonio-prado-3880204_arfn8l.jpg",
+        "category":"politics",
+        "id":5
+    },
+    {
+        "title":"France prepares for Election Day",
+        "image":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1708008298/pexels-ingo-joseph-109628_zz4zxm.jpg",
+        "category":"politics",
+        "id":6
+    },
+    {
+        "title":"No relief in climate change actions",
+        "image":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1708008951/pexels-andrea-piacquadio-3783585_oslaqa.jpg",
+        "category":"politics",
+        "id":7
+    },
+    {
+        "title":"United Nations facing political attack",
+        "image":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1708013546/pexels-august-de-richelieu-4427506_xsheja.jpg",
+        "category":"politics",
+        "id":8
+    },
+    {
+        "title":"Women's Day March changed the game",
+        "image":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1708008332/pexels-life-matters-4613880_vyvwg4.jpg",
+        "category":"opinion",
+        "id":9
+    },
+    {
+        "title":"Let's talk social reform",
+        "image":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1708008058/pexels-rdne-stock-project-6003787_wdwd8z.jpg",
+        "category":"opinion",
+        "id":10
+    },
+    {
+        "title":"Is the market prepared for the rise of interest rates?",
+        "image":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1708008046/pexels-andrea-piacquadio-3768131_ljybqr.jpg",
+        "category":"opinion",
+        "id":11
+    },
+    {
+        "title":"Women's Day March changed the game",
+        "image":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1708008050/pexels-mikhail-nilov-7929419_lb1v4b.jpg",
+        "category":"opinion",
+        "id":12
+    },
+    {
+        "title":"Swimming olympics test is held in India",
+        "image":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1708008108/pexels-guduru-ajay-bhargav-863988_gqyhpt.jpg",
+        "category":"sports",
+        "id":13
+    },
+    {
+        "title":"Rugby World Cup 2023 Semi-Finals",
+        "image":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1708008118/pexels-football-wife-1618269_hhexaw.jpg",
+        "category":"sports",
+        "id":14
+    },
+    {
+        "title":"College season kicks off",
+        "image":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1708008138/pexels-pixabay-248547_orfzoe.jpg",
+        "category":"sports",
+        "id":15
+    },
+    {
+        "title":"Swimming olympics test is held in India",
+        "image":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1708013531/pexels-pixabay-163452_cxwu3f.jpg",
+        "category":"sports",
+        "id":16
+    },
+    {
+        "title":"Sara Dawson up for Grammy",
+        "image":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1708008067/pexels-pixabay-458379_uyryfn.jpg",
+        "category":"movies",
+        "id":17
+    },
+    {
+        "title":"Can Hollywood kick its old habits?",
+        "image":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1708008076/pexels-henry-_-co-3137890_hgua3e.jpg",
+        "category":"movies",
+        "id":18
+    },
+    {
+        "title":"Top 10 festivals for 2023",
+        "image":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1708008088/pexels-martin-lopez-1117132_thqkeq.jpg",
+        "category":"movies",
+        "id":19
+    },
+    {
+        "title":"Sara Dawson up for Grammy",
+        "image":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1708013524/pexels-bruno-massao-2873486_f8zorl.jpg",
+        "category":"movies",
+        "id":20
+    }
+]

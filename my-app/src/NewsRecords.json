@@ -1,0 +1,27 @@
+[
+    {
+        "name":"Elliot Parker",
+        "id":1,
+        "email":"elliotparker@gmail",
+        "phoneno":"932-234-232",
+        "role":"Editor-in-Chief",
+        "url":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1707983152/pexels-moose-photos-1586996_qddu2d.jpg"
+    },
+    {
+        "name":"Matt Keller",
+        "id":1,
+        "email":"mattkeller@gmail",
+        "phoneno":"006-234-896",
+        "role":"Production Specialist",
+        "url":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1707983157/pexels-buro-millennial-1438081_m5ywtq.jpg"
+    },
+    {
+        "name":"Jennifer",
+        "id":1,
+        "email":"jennifer@gmail",
+        "phoneno":"907-235-666",
+        "role":"Sales",
+        "url":"https://res.cloudinary.com/dj4bfvysr/image/upload/v1707983166/pexels-emmy-e-2381069_xeos4n.jpg"
+    }
+
+]

@@ -1,0 +1,47 @@
+body{
+    margin:0;
+}
+
+.news-data{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.bottom-part{
+    align-self: flex-start;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: aliceblue;
+    width: 100%;
+    padding:100px;
+    
+}
+.elements{
+    font-size:23px;
+    font-weight: bold;
+    list-style-type: none;
+    margin-bottom:10px;
+
+}
+.subscribe-heading{
+    margin-bottom: 40px;
+}
+.eamil{
+    width:300px;
+    height:40px;
+    border:black;
+    border-style: none;
+    background-color:black;
+    border-bottom:white 2px solid;
+}
+.subscribe-button{
+    height:40px;
+    width:90px;
+    background-color:white;
+    font-size:14px;
+    border:none;
+    margin-left:10px;
+}
